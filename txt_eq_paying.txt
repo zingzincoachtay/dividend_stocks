@@ -1,0 +1,205 @@
+                                            Name   Price Dividend Yield Forward P/E Ratio Payout Ratio   Beta
+0                          TransDigm Group, Inc.  570.05            5.3              41.2        216.8   1.13
+1                                   VMware, Inc.  150.91           18.0               9.4        167.6   1.33
+2                     Simon Property Group, Inc.  145.40            5.5              20.9        118.0   0.61
+3            Diamond Hill Investment Group, Inc.  139.42            6.4              10.4         67.4   0.64
+4               National Presto Industries, Inc.   88.42            6.9              19.2        130.1   0.72
+5              Philip Morris International, Inc.   84.84            5.5              17.7         95.6   0.67
+6                National Health Investors, Inc.   80.79            5.1              22.3        114.8   0.36
+7                               W.P. Carey, Inc.   80.40            5.1              34.0        174.9   0.30
+8                    Investors Real Estate Trust   74.27            6.4                                  0.67
+9                                 EPR Properties   68.56            6.3              26.4        171.7   0.42
+10                                     NVE Corp.   66.25            6.2              23.4        141.4   0.69
+11          Compass Minerals International, Inc.   57.40            5.1              34.4        172.6   1.47
+12                                  Ventas, Inc.   56.35            5.6              42.1        236.9   0.28
+13                               Universal Corp.   54.40            5.6              15.3         84.7   0.45
+14                            Altria Group, Inc.   50.30            6.5              53.1        341.9   0.66
+15                         Mercury General Corp.   48.53            5.1              13.0         67.3   0.73
+16                                  Kohl's Corp.   47.70            5.5              10.9         60.0   1.18
+17                 Six Flags Entertainment Corp.   45.14            7.4              14.1        102.6   0.76
+18          CorEnergy Infrastructure Trust, Inc.   44.07            6.7              76.2        518.9   0.51
+19                          Core Laboratories NV   44.00            5.1              23.3        116.3   1.47
+20                Macquarie Infrastructure Corp.   43.12            9.3              26.2        243.1   0.83
+21             Gaming & Leisure Properties, Inc.   42.60            6.3              28.4        181.3   0.51
+22              Omega Healthcare Investors, Inc.   42.12            6.2              25.8        161.8   0.46
+23                              CVR Energy, Inc.   41.61            7.2              10.0         72.1   1.23
+24                       Helmerich & Payne, Inc.   41.59            7.0            -124.7       -851.3   1.30
+25                               Schlumberger NV   38.40            5.4              -5.4        -27.9   1.26
+26                                    AT&T, Inc.   38.17            5.4              17.0         91.0   0.58
+27                     Triton International Ltd.   37.99            5.5               8.7         47.6   1.08
+28                    Occidental Petroleum Corp.   37.54            8.3              24.4        203.2   0.98
+29                               PacWest Bancorp   37.33            6.4               9.7         62.4   1.17
+30                         Targa Resources Corp.   36.86            9.8             -26.2       -258.8   1.41
+31               Blackstone Mortgage Trust, Inc.   36.72            6.7              15.5        104.5   0.48
+32                                Meredith Corp.   36.36            6.4             -38.2       -238.4   0.78
+33                Office Properties Income Trust   33.96            9.8             -11.2       -111.3   0.92
+34                           Iron Mountain, Inc.   32.67            7.4              28.1        209.9   0.56
+35                       Innophos Holdings, Inc.   31.87            6.0              29.3        176.7   1.09
+36                           Equity Commonwealth   31.82           10.8               8.0         88.2   0.24
+37                           The Kraft Heinz Co.   31.60            5.7              -3.6        -20.5   0.45
+38                                  Moelis & Co.   31.49            6.1              12.7         79.2   1.18
+39                         Taubman Centers, Inc.   31.03            8.4             -43.3       -373.9   0.73
+40                   Weingarten Realty Investors   31.03            5.0              13.3         67.4   0.59
+41                 Westwood Holdings Group, Inc.   29.65            9.8              28.4        275.5   0.82
+42                             TripAdvisor, Inc.   28.94           12.1              34.4        415.7   1.44
+43                  One Liberty Properties, Inc.   27.68            6.4              43.5        282.7   0.52
+44                    Pattern Energy Group, Inc.   27.29            6.2             -26.4       -163.3   0.72
+45                      Chesapeake Lodging Trust   27.17            5.9              17.4        102.4   0.13
+46                                  Macerich Co.   26.63           11.0              29.6        332.9   0.81
+47                       Pebblebrook Hotel Trust   26.28            5.7             -43.1       -249.3   1.11
+48                                Tapestry, Inc.   25.82            5.3              13.8         72.2   1.43
+49                          OUTFRONT Media, Inc.   25.50            5.7              24.1        135.9   0.92
+50                  Hospitality Properties Trust   25.28            8.4              17.1        144.1   0.70
+51                 Starwood Property Trust, Inc.   24.76            7.7              16.2        125.4   0.52
+52                     Janus Henderson Group Plc   24.45            5.9              11.4         66.8   1.02
+53                   Park Hotels & Resorts, Inc.   24.36            8.4              20.8        175.2   0.91
+54                       The Williams Cos., Inc.   23.19            6.5             182.0      1,161.7   0.90
+55                    Gladstone Commercial Corp.   22.48            6.6             588.5      3,926.7   0.52
+56            PennyMac Mortgage Investment Trust   22.21            8.3               8.5         72.0   0.53
+57                  Brixmor Property Group, Inc.   21.43            5.1              22.1        115.4   0.69
+58                  Sabra Health Care REIT, Inc.   21.43            8.2             555.2      4,663.2   0.67
+59                          Signet Jewelers Ltd.   21.40            6.8              -5.0        -33.0   1.92
+60                  Xenia Hotels & Resorts, Inc.   21.17            5.1              17.1         89.0   0.98
+61                    KAR Auction Services, Inc.   21.07            5.9              11.9         69.9   0.63
+62                            Kimco Realty Corp.   20.83            5.3              27.8        149.3   0.63
+63                      Chimera Investment Corp.   20.63            9.7              34.6        335.1   0.47
+64         Industrial Logistics Properties Trust   20.58            6.3              22.6        145.2   0.62
+65                    TPG RE Finance Trust, Inc.   20.34            8.4              11.9        100.4   0.46
+66           KKR Real Estate Finance Trust, Inc.   20.22            8.4              13.6        116.0   0.39
+67                        Global Net Lease, Inc.   20.19            8.7              99.9        878.3   0.63
+68                         United-Guardian, Inc.   19.70            5.7              22.9        127.8  -0.02
+69                          Nielsen Holdings Plc   19.63            7.1              -5.6        -39.6   1.00
+70                           TFS Financial Corp.   19.52            5.2              68.3        356.9   0.46
+71                       Oritani Financial Corp.   18.60            5.4              15.9         85.7  -0.01
+72                Plymouth Industrial REIT, Inc.   18.59            8.0              -4.6        -37.2   0.32
+73                                The Cato Corp.   18.55            6.9              12.7         90.3   0.76
+74                       Kite Realty Group Trust   18.54            6.7             -33.1       -226.4   0.83
+75   Apollo Commercial Real Estate Finance, Inc.   18.42            9.9              13.9        138.7   0.54
+76            Granite Point Mortgage Trust, Inc.   18.28            9.1              13.2        121.3   0.45
+77                         Chatham Lodging Trust   18.23            7.2              41.6        301.5   0.65
+78                     Ellington Financial, Inc.   18.21            9.9              13.0        128.8   0.33
+79                        Jernigan Capital, Inc.   17.70            7.8               9.2         72.5   0.42
+80                 ARMOUR Residential REIT, Inc.   17.59           12.6              -1.5        -19.3   0.49
+81                         AGNC Investment Corp.   17.34           11.9              -8.6       -102.1   0.33
+82                                L Brands, Inc.   17.30            8.4              12.9        112.1   1.44
+83                             RLJ Lodging Trust   17.20            7.7              31.5        242.0   0.98
+84                                  Invesco Ltd.   17.09            7.2              14.7        104.6   1.28
+85                          Ladder Capital Corp.   17.05            7.9              16.7        133.5   0.66
+86                           Dynex Capital, Inc.   16.84           12.5              -1.3        -16.1   0.50
+87                                   Fluor Corp.   16.81            5.1              -1.8         -9.0   1.75
+88                         Umpqua Holdings Corp.   16.73            5.0              10.5         52.8   1.02
+89                              The Chemours Co.   16.58            6.2               6.8         41.0   1.88
+90                Waddell & Reed Financial, Inc.   16.51            6.1               8.6         51.9   1.22
+91                           Redwood Trust, Inc.   16.45            7.3              13.7         99.8   0.37
+92                Invesco Mortgage Capital, Inc.   16.42           10.7             116.6      1,257.1   0.59
+93                         Virtu Financial, Inc.   16.38            5.7              44.1        258.3  -0.16
+94                                     Gap, Inc.   16.17            5.8               7.6         45.3   1.16
+95                               Mannatech, Inc.   15.80            5.8             -94.3       -522.4   0.21
+96            AG Mortgage Investment Trust, Inc.   15.70           12.5             267.9      3,327.6   0.44
+97                                  Macy's, Inc.   15.70            9.6               5.0         48.3   1.17
+98              New Residential Investment Corp.   15.63           12.7              18.6        238.2   0.78
+99             Ares Commercial Real Estate Corp.   15.55            8.3              11.9         99.5   0.45
+100                        TerraForm Power, Inc.   15.43            5.2             -39.1       -201.2   0.54
+101          Tanger Factory Outlet Centers, Inc.   15.28            8.8              12.1        111.3   0.77
+102                          Ready Capital Corp.   15.16           10.4               8.9         94.0   0.53
+103                             Great Ajax Corp.   15.14            8.4               8.5         71.5   0.54
+104                              CoreCivic, Inc.   15.09           11.5               9.5        110.6   0.85
+105                               SemGroup Corp.   15.02           12.6             -12.8       -161.4  -0.02
+106                          Elmira Savings Bank   14.95            6.1              15.0         92.3   0.02
+107                        Covanta Holding Corp.   14.81            6.8             274.3      1,851.9   0.84
+108                        Designer Brands, Inc.   14.80            7.0              18.3        123.5   1.29
+109                                   RPT Realty   14.72            6.0             156.9        938.2   0.63
+110        Cherry Hill Mortgage Investment Corp.   14.70           12.7              -2.5        -32.0   0.52
+111                 Two Harbors Investment Corp.   14.68           11.8              -8.0        -94.6   0.58
+112                   CIM Commercial Trust Corp.   14.55            8.3               0.6          5.3   0.72
+113                  Extended Stay America, Inc.   14.38            6.3              34.8        217.8   0.87
+114                     Arbor Realty Trust, Inc.   14.33            7.8              10.1         78.0   0.74
+115                 American Finance Trust, Inc.   14.30            7.6            -128.6       -989.2   0.55
+116                            CenturyLink, Inc.   14.01            9.1              -1.9        -17.4   0.98
+117                     Hersha Hospitality Trust   14.01            7.9             -23.6       -188.6   0.86
+118                          The GEO Group, Inc.   13.91           13.6              10.2        140.5   0.92
+119                           SITE Centers Corp.   13.87            5.6              66.2        381.7   0.74
+120                       Kronos Worldwide, Inc.   13.74            5.4              15.7         80.9   1.34
+121              Colony Credit Real Estate, Inc.   13.56           12.6              -3.0        -38.7   0.86
+122                              Whitestone REIT   13.54            8.3              32.3        271.5   0.74
+123                              SpartanNash Co.   13.49            5.4             -36.3       -201.8   1.02
+124                            Vector Group Ltd.   13.11           11.7              18.8        218.9   0.97
+125                    Global Medical REIT, Inc.   13.00            5.7              34.6        213.0   0.22
+126                       City Office REIT, Inc.   12.99            7.1             -34.1       -247.0   0.51
+127                       Tribune Publishing Co.   12.80           13.9             -22.8       -311.8   0.89
+128       Bluerock Residential Growth REIT, Inc.   12.11            5.3             -14.7        -79.0   0.39
+129                                Tilly's, Inc.   12.10            7.9              14.3        117.8   1.16
+130                Summit Hotel Properties, Inc.   12.07            5.9              19.6        117.0   0.76
+131                        Exantas Capital Corp.   11.88            7.1              12.8         91.4   0.51
+132             New York Community Bancorp, Inc.   11.79            5.8              15.5         89.2   0.66
+133          Ellington Residential Mortgage REIT   11.21           11.1              53.8        594.7   0.39
+134                    TESSCO Technologies, Inc.   10.92            7.3             124.9        915.3   0.67
+135                    Equitrans Midstream Corp.   10.81           12.5             165.0      2,000.0   1.12
+136                           Spark Energy, Inc.   10.61            6.9            -125.0       -853.9   0.47
+137           Advanced Emissions Solutions, Inc.   10.46            9.6               5.8         55.2   0.61
+138         Western Asset Mortgage Capital Corp.   10.35           11.9              13.1        157.3   0.56
+139                      CorePoint Lodging, Inc.    9.98            8.0              -2.4        -19.4   1.26
+140                         Peabody Energy Corp.    9.86            5.5               3.4         18.9   1.18
+141                                 VEREIT, Inc.    9.41            5.7             -22.3       -130.5   0.50
+142              Annaly Capital Management, Inc.    9.38           11.7              -2.3        -26.5   0.43
+143                               Ford Motor Co.    9.11            6.6              22.1        145.8   0.96
+144                               Archrock, Inc.    9.08            5.9              19.1        113.7   1.55
+145                           Psychemedics Corp.    9.00            7.9              16.8        134.4   0.33
+146       Rocky Mountain Chocolate Factory, Inc.    8.74            5.5              20.1        110.5   0.19
+147                        Berry Petroleum Corp.    8.45            5.5               3.9         21.9   1.54
+148                                   TiVo Corp.    8.32            6.2              -2.2        -13.6   1.03
+149                             Tecnoglass, Inc.    8.16            5.1              37.4        192.5   0.23
+150                      Capstead Mortgage Corp.    8.00            5.0              -8.7        -43.3   0.57
+151            New Senior Investment Group, Inc.    7.90            6.6              -8.1        -53.2   0.65
+152               Kentucky First Federal Bancorp    7.75            5.2              70.9        366.0   0.27
+153                          MFA Financial, Inc.    7.70           10.4              10.8        111.9   0.46
+154              Senior Housing Properties Trust    7.55           14.1             -11.6       -165.4   0.69
+155                    C&J Energy Services, Inc.    7.36           13.6              -1.5        -21.0  -0.01
+156                      Tupperware Brands Corp.    7.36           20.2               3.5         71.6   0.91
+157                            Uniti Group, Inc.    7.19           10.5              39.6        413.2   1.34
+158                        Sotherly Hotels, Inc.    6.90            7.4             -15.0       -110.8   0.33
+159                     National CineMedia, Inc.    6.88            9.8              15.9        157.6   0.97
+160       Blue Capital Reinsurance Holdings Ltd.    6.80           26.6              -2.6        -68.4   0.51
+161             New Media Investment Group, Inc.    6.70           22.7             -34.8       -789.2   0.78
+162                        Falcon Minerals Corp.    6.39            9.8              15.7        152.6   1.11
+163                New York Mortgage Trust, Inc.    6.30           12.8              13.3        168.5   0.45
+164               Manhattan Bridge Capital, Inc.    6.27            7.6              13.6        104.4   0.09
+165                            Gannett Co., Inc.    5.94           25.8             -30.8       -789.2   0.46
+166                  Natural Health Trends Corp.    5.70            5.8              23.7        133.2   0.17
+167                  Orchid Island Capital, Inc.    5.69           16.8             -15.6       -263.4   0.62
+168                    Evolution Petroleum Corp.    5.57            7.2              14.9        107.2   1.18
+169                               GameStop Corp.    5.53           11.7              -0.7        -10.0   1.44
+170    Pennsylvania Real Estate Investment Trust    5.23           15.5              -3.6        -57.5   1.50
+171                Entercom Communications Corp.    4.86            5.9              -2.1        -12.5   1.36
+172                        Tailored Brands, Inc.    4.85           13.6               4.0         58.9   1.42
+173                           Pitney Bowes, Inc.    4.57            6.9               7.7         57.1   1.84
+174                          Quad/Graphics, Inc.    4.51           26.7              -1.2        -32.5   1.24
+175                         Colony Capital, Inc.    4.48            9.4              -1.4        -13.8   0.87
+176                         Sachem Capital Corp.    4.46           12.0              11.3        133.8  -0.06
+177                         CSS Industries, Inc.    4.31            9.1              -0.9         -8.6   0.88
+178                  GAIN Capital Holdings, Inc.    4.31            5.8              -5.1        -28.3   0.84
+179                    Global Self Storage, Inc.    4.25            6.2              50.1        306.2   0.22
+180              Merrimack Pharmaceuticals, Inc.    4.24           34.8              -1.6        -57.8   0.30
+181                            Chico's FAS, Inc.    3.95            8.4             -18.9       -166.0   1.34
+182            Rayonier Advanced Materials, Inc.    3.79            5.6              -3.8        -21.2   1.63
+183                 Washington Prime Group, Inc.    3.73           25.6              24.4        653.2   1.28
+184   Consolidated Communications Holdings, Inc.    3.67           21.1              -9.0       -189.8   1.17
+185                            Cohen & Co., Inc.    3.50           13.4              -1.2        -14.0   0.45
+186           Hunt Companies Finance Trust, Inc.    3.28            8.8              86.3        736.8   0.36
+187      Superior Industries International, Inc.    3.18            8.8             -13.7       -116.2   1.67
+188                          Hallador Energy Co.    3.03            5.2              37.2        196.3   1.09
+189                              A.H. Belo Corp.    3.00           10.9               5.0         53.3   0.28
+190                Beasley Broadcast Group, Inc.    2.98            6.7               7.7         51.4   0.56
+191                     Cedar Realty Trust, Inc.    2.74            7.1              54.6        398.4   0.57
+192              Ashford Hospitality Trust, Inc.    2.70           13.3              -1.5        -19.5   1.10
+193             Entravision Communications Corp.    2.61            7.5             -10.9        -83.3   0.78
+194                Pioneer Power Solutions, Inc.    2.30           61.7              -1.6        -92.3   0.08
+195                          ProPhase Labs, Inc.    1.99           12.4              -7.3        -92.1  -0.09
+196                Mammoth Energy Services, Inc.    1.73           14.7               1.6         22.4   1.40
+197                     Tile Shop Holdings, Inc.    1.54           13.0             -58.8       -763.4   1.09
+198                      Salem Media Group, Inc.    1.46           17.4              -1.5        -26.2   0.42
+199                                 J.Jill, Inc.    1.04          109.5              -0.5        -57.4   1.33
+200            CBL & Associates Properties, Inc.    1.02           14.3              -0.7        -10.6   1.80
+201                              Spirit MTA REIT    0.69          193.5              -0.1        -19.9   0.40
+202                     LSC Communications, Inc.    0.37          154.9              -0.1        -12.2   1.45
+203                               Dean Foods Co.    0.10           29.7               0.0         -0.7   0.42
